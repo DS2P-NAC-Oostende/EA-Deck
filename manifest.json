@@ -1,0 +1,24 @@
+{
+  "id": "/EA-Deck/",
+  "name": "EA Deck",
+  "short_name": "Deck",
+  "start_url": "/EA-Deck/",
+  "scope": "/EA-Deck/",
+  "display": "standalone",
+  "background_color": "#0f1c3f",
+  "theme_color": "#0f1c3f",
+  "icons": [
+    {
+      "src": "icon-192-optimized.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-optimized.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
