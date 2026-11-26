@@ -16,7 +16,7 @@
 // zichzelf. Dat is de garantie.
 // =============================================================
 
-const VERSIE = "start";            // ROBOT-VERSIE (niet met de hand wijzigen)
+const VERSIE = "2026-11-26-1135-88b64c4";            // ROBOT-VERSIE (niet met de hand wijzigen)
 const PREFIX = "eadeck-";      // eigen opslag: alle apps op dit adres delen een opslag
 const CACHE = PREFIX + VERSIE;
 
